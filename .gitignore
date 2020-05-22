@@ -1,3 +1,13 @@
+# Pycharm
+.idea
+idea
+*.pyc
+
+
+# Media
+media
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
